@@ -173,3 +173,4 @@ exec_always --no-startup-id feh --randomize --bg-fill ~/.config/i3/wallpaper/*
 
 # Modules exectution
 exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh &
+exec_always --no-startup-id numlockx on
